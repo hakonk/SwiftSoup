@@ -781,6 +781,15 @@ open class Node: Equatable, Hashable {
 	public var hashValue: Int {
 		return description.hashValue ^ (baseUri?.hashValue ?? 31)
 	}
+    
+    public func hash(into hasher: inout Hasher) {
+        hasher.combine(description)
+        if let baseUri = baseUri {
+            hasher.combine(baseUri)
+        } else {
+            hasher.combine(31)
+        }
+    }
 
 }
 

@@ -1,0 +1,341 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/master.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/ArrayExt.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ArrayExt.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ArrayExt.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ArrayExt~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ArrayExt.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Attribute.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Attribute.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Attribute.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Attribute~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Attribute.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Attributes.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Attributes.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Attributes.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Attributes~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Attributes.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/BooleanAttribute.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/BooleanAttribute.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/BooleanAttribute.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/BooleanAttribute~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/BooleanAttribute.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/CharacterExt.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CharacterExt.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CharacterExt.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CharacterExt~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CharacterExt.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/CharacterReader.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CharacterReader.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CharacterReader.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CharacterReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CharacterReader.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Cleaner.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Cleaner.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Cleaner.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Cleaner~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Cleaner.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Collector.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Collector.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Collector.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Collector~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Collector.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/CombiningEvaluator.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CombiningEvaluator.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CombiningEvaluator.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CombiningEvaluator~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/CombiningEvaluator.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Comment.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Comment.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Comment.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Comment~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Comment.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Connection.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Connection.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Connection.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Connection~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Connection.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/DataNode.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DataNode.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DataNode.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DataNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DataNode.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/DataUtil.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DataUtil.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DataUtil.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DataUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DataUtil.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Document.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Document.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Document.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Document~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Document.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/DocumentType.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DocumentType.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DocumentType.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DocumentType~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/DocumentType.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Element.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Element.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Element.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Element~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Element.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Elements.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Elements.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Elements.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Elements~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Elements.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Entities.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Entities.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Entities.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Entities~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Entities.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Evaluator.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Evaluator.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Evaluator.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Evaluator~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Evaluator.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Exception.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Exception.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Exception.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Exception~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Exception.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/FormElement.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/FormElement.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/FormElement.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/FormElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/FormElement.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/HtmlTreeBuilder.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HtmlTreeBuilder.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HtmlTreeBuilder.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HtmlTreeBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HtmlTreeBuilder.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/HtmlTreeBuilderState.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HtmlTreeBuilderState.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HtmlTreeBuilderState.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HtmlTreeBuilderState~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HtmlTreeBuilderState.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/HttpStatusException.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HttpStatusException.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HttpStatusException.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HttpStatusException~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/HttpStatusException.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Node.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Node.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Node.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Node~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Node.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/NodeTraversor.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/NodeTraversor.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/NodeTraversor.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/NodeTraversor~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/NodeTraversor.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/NodeVisitor.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/NodeVisitor.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/NodeVisitor.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/NodeVisitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/NodeVisitor.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/OrderedDictionary.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/OrderedDictionary.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/OrderedDictionary.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/OrderedDictionary~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/OrderedDictionary.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/OrderedSet.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/OrderedSet.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/OrderedSet.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/OrderedSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/OrderedSet.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/ParseError.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseError.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseError.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseError~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseError.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/ParseErrorList.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseErrorList.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseErrorList.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseErrorList~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseErrorList.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/ParseSettings.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseSettings.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseSettings.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/ParseSettings.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Parser.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Parser.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Parser.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Parser.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Pattern.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Pattern.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Pattern.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Pattern~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Pattern.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/QueryParser.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/QueryParser.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/QueryParser.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/QueryParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/QueryParser.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Selector.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Selector.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Selector.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Selector~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Selector.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/SerializationException.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SerializationException.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SerializationException.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SerializationException~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SerializationException.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/SimpleDictionary.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SimpleDictionary.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SimpleDictionary.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SimpleDictionary~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SimpleDictionary.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/StreamReader.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StreamReader.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StreamReader.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StreamReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StreamReader.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/String.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/String.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/String.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/String~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/String.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/StringBuilder.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StringBuilder.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StringBuilder.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StringBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StringBuilder.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/StringUtil.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StringUtil.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StringUtil.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StringUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StringUtil.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/StructuralEvaluator.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StructuralEvaluator.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StructuralEvaluator.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StructuralEvaluator~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/StructuralEvaluator.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/SwiftSoup.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SwiftSoup.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SwiftSoup.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SwiftSoup~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/SwiftSoup.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Tag.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Tag.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Tag.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Tag~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Tag.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/TextNode.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TextNode.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TextNode.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TextNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TextNode.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Token.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Token.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Token.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Token~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Token.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/TokenQueue.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TokenQueue.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TokenQueue.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TokenQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TokenQueue.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Tokeniser.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Tokeniser.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Tokeniser.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Tokeniser~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Tokeniser.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/TokeniserState.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TokeniserState.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TokeniserState.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TokeniserState~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TokeniserState.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/TreeBuilder.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TreeBuilder.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TreeBuilder.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TreeBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/TreeBuilder.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/UnicodeScalar.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/UnicodeScalar.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/UnicodeScalar.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/UnicodeScalar~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/UnicodeScalar.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Validate.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Validate.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Validate.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Validate~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Validate.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/Whitelist.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Whitelist.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Whitelist.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Whitelist~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/Whitelist.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/XmlDeclaration.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/XmlDeclaration.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/XmlDeclaration.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/XmlDeclaration~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/XmlDeclaration.swiftdeps"
+  },
+  "/Users/hakonknutzen/Documents/Dev/SwiftSoup/Sources/XmlTreeBuilder.swift": {
+    "dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/XmlTreeBuilder.d",
+    "object": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/XmlTreeBuilder.swift.o",
+    "swiftmodule": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/XmlTreeBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/hakonknutzen/Documents/Dev/SwiftSoup/.build/x86_64-apple-macosx/debug/SwiftSoup.build/XmlTreeBuilder.swiftdeps"
+  }
+}
